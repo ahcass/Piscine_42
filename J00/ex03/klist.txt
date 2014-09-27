@@ -1,0 +1,5 @@
+Credentials cache: API:80BADC8E-F352-4B65-9836-3A031FE036AE
+        Principal: zgrialat@42.FR
+
+  Issued                Expires               Principal
+Aug 26 18:26:15 2014  Sep  2 18:26:11 2014  krbtgt/42.FR@42.FR
